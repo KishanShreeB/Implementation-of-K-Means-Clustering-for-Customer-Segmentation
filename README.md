@@ -29,8 +29,8 @@ Step 8. Stop the program
 
 Program to implement the K Means Clustering for Customer Segmentation.
 ```
-Developed by: AYISHA RINSI K
-RegisterNumber:212223040022
+Developed by: KISHAN SHREE B
+RegisterNumber:212223100022
 
 import pandas as pd
 df=pd.read_csv("Mall_Customers.csv")
